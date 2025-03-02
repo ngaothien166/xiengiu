@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc em Xiêngggg có một ngày sinh nhật đáng nhớ và tràn đầy yêu thương! 🎂🌸🌟. Mong rằng tuổi mới sẽ mang đến cho Xiênggg thật nhiều niềm vui, hạnh phúc và sang năm lấy chồng :)). Mãi keo mãi keo ❤️" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc em Xiênggg có một ngày sinh nhật đáng nhớ và tràn đầy yêu thương! 🎂🌸🌟. Mong rằng tuổi mới sẽ mang đến cho Xiênggg thật nhiều niềm vui, hạnh phúc và sang năm lấy chồng :)). Mãi keo mãi keo ❤️" //Lời mở đầu cho bức thư
 const mainContentLetter = "Bức thư chan chứa nước mũi và rất cảm lạnh :))" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
